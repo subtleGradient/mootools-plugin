@@ -1,5 +1,5 @@
-My Plugin Name
-==============
+PluginName
+==========
 
 Description
 -----------
