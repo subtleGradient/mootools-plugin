@@ -1,12 +1,12 @@
 /*
 Script: PluginName.js
-	MooTools - My Object Oriented JavaScript Tools.
+    PluginName
 
 License:
 	MIT-style license.
 
 Copyright:
-	Copyright (c) 2006-2007 [copyright holders](http://).
+	Copyright (c) 2009 [copyright holders](http://).
 
 */
 var PluginName = new Class({
